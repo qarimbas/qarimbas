@@ -22,7 +22,6 @@ currently:
   - Crafting independent software projects
   - Deepening expertise across the stack
   - Open to collaboration & interesting problems
-motto: "Test everything. Trust nothing. Ship anyway."
 ```
 
 ---
